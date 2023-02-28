@@ -5,7 +5,7 @@ This website has been developed for a fictional A level and GCSE physics and mat
 
 ## UX Design
 
-UX design was guided by the "five planes of UX" approach. The five planes of strategy, scope, structure, skeleton and surface as they relate to the current project are detailed below.  
+UX design was guided by the "five planes of UX" methodology. The five planes as they relate to the current project are detailed below.  
 
 ### Strategy
 
@@ -39,6 +39,19 @@ Blogging functionality is not included in the scope at this (MVP) stage but coul
 
 ### Structure
 
+Given the limited amount of content required to build the MVP, a single page website structure broken into sections was considered appropriate. Navigation between sections is via a sticky navbar at the top of the page.
+
+Page sections
+
+* Header with CTA - This is a banner section announcing the business title and a tagline summing up the essentials of the service. This section also includes a CTA button linking to the contact form. 
+* Testimonials - Social proof in the form of testimonials from happy clients was considered to be crucial content for this type of business, Therefore this section was placed near the page top.
+* About me - This section gives information on the qualifications and experience of the site-owner.
+* Subjects offered 
+* Key features - one-to-one, online, hybrid. This section uses the design convention of icons to highlight features. 
+* Map - Provides business location information
+* Contact form
+* Footer - This section was included more for sake of convention than information value. 
+
 ### Skeleton
 
 ### Surface
@@ -48,3 +61,7 @@ Blogging functionality is not included in the scope at this (MVP) stage but coul
 Bugs encountered are detailed in this section.
 
 ## **Testing**
+
+Testing program
+
+## **Credits**
