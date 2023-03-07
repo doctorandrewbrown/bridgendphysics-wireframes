@@ -43,6 +43,8 @@ Given the limited amount of content required to build the MVP, a single page web
 
 Page sections
 
+* Navigation
+
 * Header with CTA - This is a banner section announcing the business title and a tagline summing up the essentials of the service. This section also includes a CTA button linking to the contact form. 
 * Testimonials - Social proof in the form of testimonials from happy clients was considered to be crucial content for this type of business, Therefore this section was placed near the page top.
 * About me - This section gives information on the qualifications and experience of the site-owner.
@@ -62,6 +64,8 @@ Bugs encountered are detailed in this section.
 
 ## **Testing**
 
-Testing program
+Testing program  
+
+## **Deployment**
 
 ## **Credits**
