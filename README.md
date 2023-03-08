@@ -62,6 +62,8 @@ Page sections
 
 Bugs encountered are detailed in this section.
 
+* Text overflow was found in with the h1 and h2 headings in the hero section, when initial testing for small devices. This was due to the above elements not being placed in their own columns. Placing the h1, h2 elements (and cta button) in their own columns allowed responsivity. 
+
 ## **Testing**
 
 Testing program  
