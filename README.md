@@ -1,4 +1,5 @@
 # **Bridgend Physics and Maths Website**  
+https://doctorandrewbrown.github.io/bridgendphysics/
 
 This website has been developed for a fictional A level and GCSE physics and maths private tutor service. 
 
@@ -23,7 +24,6 @@ Users need to:
 
 
 * Contact site owner
-* Find the location of the service
 
 #### Information
 
@@ -47,13 +47,11 @@ Page sections
 
 * Header with CTA - This is a banner section announcing the business title and a tagline summing up the essentials of the service. This section also includes a CTA button linking to the contact form. 
 * Testimonials - Social proof in the form of testimonials from happy clients was considered to be crucial content for this type of business, Therefore this section was placed near the page top.
-* About me - This section gives information on the qualifications and experience of the site-owner.
+* About - This section gives information on the qualifications and experience of the site-owner.
 * Subjects offered 
 * Key features - one-to-one, online, hybrid. This section uses the design convention of icons to highlight features. 
-* Map - Provides business location information
-* Contact form
-* Footer - This section was included more for sake of convention than information value. 
-
+* Contact details information.This section doubles as the footer
+  
 ### Skeleton
 
 ### Surface
@@ -62,12 +60,18 @@ Page sections
 
 Bugs encountered are detailed in this section.
 
-* Text overflow was encountered with the h1 and h2 headings in the hero section, when initial testing for small devices. This was due to the above elements not being placed in their own columns. Placing the h1, h2 elements (and cta button) in their own columns allowed responsivity. Solving this bug demonstrated the importance of foolowing bootstrap format to get built-in responsiveness.
+* Text overflow was encountered with the h1 and h2 headings in the hero section, when initial testing for small devices. This was due to the above elements not being placed in their own columns. Placing the h1, h2 elements (and cta button) in their own columns allowed responsivity. Solving this bug demonstrated the importance of following bootstrap format to get built-in responsiveness.
 
 ## **Testing**
 
-Testing was conducted throughout development. Incremental changes were tested by opening the partly complete site in the chrome browser and "eye-balling" results. Incremental changes were initially tested for responsiveness via chrome dev tools. The chrome inspector was also used to identify layout problems and testing small style changes before amending code.
+Testing was conducted throughout development. Incremental changes were tested by opening the partly complete site in the chrome browser and "eye-balling" results. Incremental changes were initially tested for responsiveness via chrome dev tools. The chrome inspector was also used to identify layout problems and testing small style changes before amending code. 
+
+HTML and CSS checking used respectively, validator.w3.org and jigsaw.w3.org.
+
+
 
 ## **Deployment**
+
+Deployment was via github-pages at https://doctorandrewbrown.github.io/bridgendphysics/
 
 ## **Credits**
