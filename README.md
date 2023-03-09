@@ -62,11 +62,11 @@ Page sections
 
 Bugs encountered are detailed in this section.
 
-* Text overflow was found in with the h1 and h2 headings in the hero section, when initial testing for small devices. This was due to the above elements not being placed in their own columns. Placing the h1, h2 elements (and cta button) in their own columns allowed responsivity. 
+* Text overflow was encountered with the h1 and h2 headings in the hero section, when initial testing for small devices. This was due to the above elements not being placed in their own columns. Placing the h1, h2 elements (and cta button) in their own columns allowed responsivity. Solving this bug demonstrated the importance of foolowing bootstrap format to get built-in responsiveness.
 
 ## **Testing**
 
-Testing program  
+Testing was conducted throughout development. Incremental changes were tested by opening the partly complete site in the chrome browser and "eye-balling" results. Incremental changes were initially tested for responsiveness via chrome dev tools. The chrome inspector was also used to identify layout problems and testing small style changes before amending code.
 
 ## **Deployment**
 
