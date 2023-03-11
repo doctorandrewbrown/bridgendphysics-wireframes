@@ -46,13 +46,14 @@ Page sections
 * Navigation
 
 * Header with CTA - This is a banner section announcing the business title and a tagline summing up the essentials of the service. This section also includes a CTA button linking to the contact form. 
-* Testimonials - Social proof in the form of testimonials from happy clients was considered to be crucial content for this type of business, Therefore this section was placed near the page top.
-* About - This section gives information on the qualifications and experience of the site-owner.
-* Subjects offered 
+* Testimonials - Social proof in the form of testimonials from happy clients was considered to be crucial content for this type of business. Therefore this section was placed near the page top.
+* About - This section gives information on the qualifications and experience of the site-owner, geographical area covered and subjects offered 
 * Key features - one-to-one, online, hybrid. This section uses the design convention of icons to highlight features. 
 * Contact details information.This section doubles as the footer
   
 ### Skeleton
+
+
 
 ### Surface
 
@@ -66,8 +67,12 @@ Bugs encountered are detailed in this section.
 
 Testing was conducted throughout development. Incremental changes were tested by opening the partly complete site in the chrome browser and "eye-balling" results. Incremental changes were initially tested for responsiveness via chrome dev tools. The chrome inspector was also used to identify layout problems and testing small style changes before amending code. 
 
+Performance testing of the deployed site was via Google Lighthouse. This identified dependencies that were affecting load times. One such dependency was a minified fontawsome.css file I had initially included in my local directory. This
+was replaced by using a modern fontawsome kit approach instead, bringing a small improvement in load speed.
+
 HTML and CSS checking used respectively, validator.w3.org and jigsaw.w3.org.
 
+The HTML test tool flagged two instaces of the h1 element in my code where one is recommended for a single article ie the web page. This was corrected in the final code. A missing DOCTYPE tag was also flagged and this was added to comply with current practice.
 
 
 ## **Deployment**
@@ -75,3 +80,5 @@ HTML and CSS checking used respectively, validator.w3.org and jigsaw.w3.org.
 Deployment was via github-pages at https://doctorandrewbrown.github.io/bridgendphysics/
 
 ## **Credits**
+
+Pexels for images.
